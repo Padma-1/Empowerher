@@ -15,7 +15,7 @@
 	<name>women-emp-project</name>
 	<description>Springboot Application to generate and manage REST data for ims</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
