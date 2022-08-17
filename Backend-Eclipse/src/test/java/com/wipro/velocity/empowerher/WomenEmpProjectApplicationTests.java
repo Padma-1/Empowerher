@@ -3,8 +3,7 @@ package com.wipro.velocity.empowerher;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootConfiguration
-@ContextConfiguration
+
 @SpringBootTest
 class WomenEmpProjectApplicationTests 
 {
